@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'Defending the Dead'
-copyright = '2023, Wickidie'
+copyright = '2023-present, Wickidie'
 author = 'Wickidie'
 
 release = '0.1'
