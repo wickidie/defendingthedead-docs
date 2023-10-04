@@ -1,35 +1,19 @@
 Welcome to Defending the Dead documentation!
 ============================================
 
-**Defending the Dead** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+**Defending the Dead** 
 
 .. note::
 
-   This project is under active development.
+   This project name is under development.
 
 Contents
 --------
 
-
 .. toctree::
-
-   usage
-   api
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Contributing
-   :name: sec-contributing
+   :caption: About
 
    about/introduction
    about/faq
-   getting_started/requirement
-   getting_started/best_practice
 
    
