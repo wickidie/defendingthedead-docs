@@ -1,4 +1,4 @@
 Introduction
 ============
 
-TBD
+You are a normal guy living with your family. You were told by your boss to go outside your village to work on your new project. You got send to a bioweapon facility to clean the place. Without you knowing, a scientist accidentally throw a dangerous sample to the sink. The sample end up flowing to the river contaminating the village water. The next week you saw the news showing your village people become sick. You rushed to go back to the cillage to see your family. Luckly all your family are fine, but some of the village people already got sick. The next day your wife feeling a little bit sick, suddenly you hearing someone knocking at your door. 
