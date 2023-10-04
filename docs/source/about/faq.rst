@@ -1,4 +1,4 @@
-Frequently asked question
+FAQ
 =========================
 
 none
