@@ -27,10 +27,10 @@ Contents
    :maxdepth: 1
    :caption: Contributing
    :name: sec-contributing
-   
-   introduction
-   requirement
-   best_practice
-   faq
+
+   about/introduction
+   about/faq
+   getting_started/requirement
+   getting_started/best_practice
 
    
