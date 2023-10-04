@@ -21,6 +21,13 @@ Contents
 
    usage
    api
+
+.. toctree::
+   :hidden:
+   :maxdepth: 1
+   :caption: Contributing
+   :name: sec-contributing
+   
    introduction
    requirement
    best_practice
