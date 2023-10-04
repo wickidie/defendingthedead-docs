@@ -1,5 +1,5 @@
 Welcome to Defending the Dead documentation!
-===================================
+============================================
 
 **Defending the Dead** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
@@ -15,6 +15,7 @@ how to :ref:`installation` the project.
 
 Contents
 --------
+
 
 .. toctree::
 
