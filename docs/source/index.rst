@@ -23,7 +23,6 @@ Contents
    api
 
 .. toctree::
-   :hidden:
    :maxdepth: 1
    :caption: Contributing
    :name: sec-contributing
