@@ -5,4 +5,4 @@ You are a normal guy living with your family. You were told by your boss to go o
 
 *The game start*
 
-You start to fortify you house and grap all your weapon to start defending your house.
+You start to fortify your house and grab all your weapon to start defending your house. 
