@@ -22,29 +22,21 @@ Contents
    :maxdepth: 1
    :caption: Characters
 
-   story/introduction
-   
 .. toctree::
    :hidden:
    :maxdepth: 1
    :caption: Art
 
-   story/introduction
-   
 .. toctree::
    :hidden:
    :maxdepth: 1
    :caption: Gameplay
 
-   story/introduction
-   
 .. toctree::
    :hidden:
    :maxdepth: 1
    :caption: Level
 
-   story/introduction
-   
 
 
    
